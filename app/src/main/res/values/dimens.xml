@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- "dimens" RESOURCE/VALUE FILE IS USED TO DECLARE SPECIFIC DIMENSION FOR ALL THE SCREENS
+ (EX.: SPECIFIC TEXT SIZE FOR ALL THE BUTTONS, SPECIFIC PADDING FOR ALL THE SCREENS ETC...) -->
+<resources>
+
+    <dimen name="main_screen_main_layout_padding">5dp</dimen>
+</resources>

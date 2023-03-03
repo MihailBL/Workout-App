@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-mergeDebugResources-4:\\layout\\recyclerview_history_section_item.xml",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\recyclerview_history_section_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-mergeDebugResources-4:\\layout\\activity_bmiactivity.xml",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_bmiactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-mergeDebugResources-4:\\layout\\recyclerview_item_exercise_status.xml",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\recyclerview_item_exercise_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-mergeDebugResources-4:\\layout\\activity_finish.xml",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_finish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.workoutapp-mergeDebugResources-4:/layout/activity_exercise.xml",
+        "source": "com.example.workoutapp-main-7:/layout/activity_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-mergeDebugResources-4:\\layout\\custom_dialog_back_confirmation.xml",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\custom_dialog_back_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-mergeDebugResources-4:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-mergeDebugResources-4:\\layout\\activity_exercise.xml",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_exercise.xml"
+    }
+]

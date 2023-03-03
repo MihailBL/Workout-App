@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_units_tab_text_color_selector.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\units_tab_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_wall_sit.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_wall_sit.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_lunge.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_lunge.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_circular_progress_bar.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_squat.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_squat.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\layout_custom_dialog_back_confirmation.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\custom_dialog_back_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\layout_activity_finish.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_finish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_item_color_accent_border_ripple_background.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\item_color_accent_border_ripple_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\layout_recyclerview_history_section_item.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\recyclerview_history_section_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_push_up_and_rotation.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_push_up_and_rotation.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_high_knees_running_in_place.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_high_knees_running_in_place.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_finish.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_finish.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_radio_group_units_tab_background.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\radio_group_units_tab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_side_plank.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_side_plank.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\layout_activity_bmiactivity.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_bmiactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_exit_item_ripple.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\exit_item_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_bmi_item_ripple.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\bmi_item_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_item_circular_color_accent_border.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\item_circular_color_accent_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_recyclerview_item_circular_color_background.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\recyclerview_item_circular_color_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_push_up.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_push_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_triceps_dip_on_chair.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_triceps_dip_on_chair.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_plank.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_plank.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_recyclerview_item_circular_color_background_selected.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\recyclerview_item_circular_color_background_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_item_circular_color_accent_background.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\item_circular_color_accent_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\raw_scountdown_sound.mp3.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\raw\\scountdown_sound.mp3"
+    },
+    {
+        "merged": "com.example.workoutapp-merged_res-5:/layout_activity_exercise.xml.flat",
+        "source": "com.example.workoutapp-main-7:/layout/activity_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_units_tab_selector.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\units_tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_jumping_jacks.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_jumping_jacks.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_step_up_onto_chair.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_step_up_onto_chair.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_history_icon.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_history_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_recyclerview_item_circular_color_background_completed.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\recyclerview_item_circular_color_background_completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_circular_progress_bar_gray.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\circular_progress_bar_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_arms_crossover.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_arms_crossover.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\layout_activity_exercise.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\activity_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\layout_recyclerview_item_exercise_status.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\layout\\recyclerview_item_exercise_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_workout.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_workout.png"
+    },
+    {
+        "merged": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-merged_res-5:\\drawable-v24_image_abdominal_crunch.png.flat",
+        "source": "C:\\Users\\Mihail\\.gradle\\daemon\\7.4\\com.example.workoutapp-main-7:\\drawable-v24\\image_abdominal_crunch.png"
+    }
+]
